@@ -1,0 +1,12 @@
+timestamp,round,client_id,device_type,event,server_host,server_port,ping_ms,icmp_ms,tcp_ms,status
+2026-11-17 09:48:05.234,0,0,jetson_orin,init,10.3.86.151,8080,27.6,,27.6,SUCCESS
+2026-11-17 09:48:13.228,1,0,jetson_orin,fit,10.3.86.151,8080,37.19,,37.19,SUCCESS
+2026-11-17 09:48:59.711,1,0,jetson_orin,evaluate,10.3.86.151,8080,12.67,,12.67,SUCCESS
+2026-11-17 09:49:05.907,2,0,jetson_orin,fit,10.3.86.151,8080,13.72,,13.72,SUCCESS
+2026-11-17 09:49:50.316,2,0,jetson_orin,evaluate,10.3.86.151,8080,24.21,,24.21,SUCCESS
+2026-11-17 09:49:59.617,3,0,jetson_orin,fit,10.3.86.151,8080,30.9,,30.9,SUCCESS
+2026-11-17 09:50:43.836,3,0,jetson_orin,evaluate,10.3.86.151,8080,31.95,,31.95,SUCCESS
+2026-11-17 09:50:50.405,4,0,jetson_orin,fit,10.3.86.151,8080,17.32,,17.32,SUCCESS
+2026-11-17 09:51:38.586,4,0,jetson_orin,evaluate,10.3.86.151,8080,26.55,,26.55,SUCCESS
+2026-11-17 09:51:44.168,5,0,jetson_orin,fit,10.3.86.151,8080,22.01,,22.01,SUCCESS
+2026-11-17 09:52:31.294,5,0,jetson_orin,evaluate,10.3.86.151,8080,17.49,,17.49,SUCCESS
